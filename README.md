@@ -21,7 +21,7 @@ In this project, we reimplemented our own Vision Transformer (ViT) from scratch,
 - **code**:
     - **experiments**: Directory containing saved models.
     - **LilaRoig_RomaneBarraDeepLearningProject.ipynb**: Jupyter notebook containing the full code for the project.
-- **poster**: Project poster.
+- **RomaneBarra_LilaRoig_Poster_ViT.pdf**: Project poster.
 
 ## Modifications and Improvements
 
