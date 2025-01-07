@@ -1,8 +1,9 @@
 # Deep Learning Project for MVA
 
 ## Paper Reference
-The project is based on the paper:  
+The project is based on the papers:  
 **[An Image is Worth 16X16 Words: Transformers For Image Recognition at Scale](https://arxiv.org/pdf/2010.11929)**
+**[Training a Vision Transformer from scratch in less than 24 hours with 1 GPU](https://https://arxiv.org/pdf/2211.05187)** 
 
 In this project, we reimplemented our own Vision Transformer (ViT) from scratch, improving upon the implementation found in:  
 **[Implementing Vision Transformer (ViT) from Scratch](https://towardsdatascience.com/implementing-vision-transformer-vit-from-scratch-3e192c6155f0)**
